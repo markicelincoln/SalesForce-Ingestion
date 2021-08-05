@@ -1,0 +1,2 @@
+cd Export\Tracking_Extract
+get TrackingExtract_20210719.zip

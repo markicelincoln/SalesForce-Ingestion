@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SalesForce Ingestion", "SalesForce Ingestion\SalesForce Ingestion.dtproj", "{42255120-470A-48C0-BCFC-EF582E80EDC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42255120-470A-48C0-BCFC-EF582E80EDC8}.Development|Default.ActiveCfg = Development
+		{42255120-470A-48C0-BCFC-EF582E80EDC8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2EB902F-CB63-4EF6-87B4-61B0A5F6E0A6}
+	EndGlobalSection
+EndGlobal
